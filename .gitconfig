@@ -1,0 +1,4 @@
+git config --global user.name "Mathurin Moquin"
+git config --global user.email mathurinmoquin1@gmail.com
+git config --global core.editor nvim
+git config --global 
